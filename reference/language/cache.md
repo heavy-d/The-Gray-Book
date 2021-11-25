@@ -12,6 +12,6 @@ The ``Dispose Cached Outputs`` input defines whether objects, cached in one of t
 
 The ``Has Changed`` output returns true for every frame the the region was executed.
 
-You can quickly surround a bunch of nodes with an If region, by selecting them and then choosing ``Surround -> If`` from the rightclick context menu.
+You can quickly surround a bunch of nodes with a Cache region, by selecting them and then choosing ``Surround -> Cache`` from the rightclick context menu.
 
 Moving nodes into and out of the region works by pressing ``Space`` while dragging them. 
