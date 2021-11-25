@@ -18,7 +18,7 @@ See also [Datatype Patch](patches.md).
 
 ---
 
-Any node that spots an arrow icon has a patch behind it which can be reached by a simple middle-click or via the context-menu: Open.
+Any node that sports an arrow icon has a patch behind it which can be reached by a simple middle-click or via the context-menu: Open.
 
 *Image:Node with a patch behind it*
 
