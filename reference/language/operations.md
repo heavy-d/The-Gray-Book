@@ -23,7 +23,7 @@ Static operation definitions can be created directly in a document patch or in a
 ![](../../images/language/vl-Operations-Static-NodeBrowser.png)
 <center>Choose to create an operation definition in the NodeBrowser</center>
 
-By default static operations have their _Is Generic_ property set to true. Disabling it shows errors for all inputs and outputs of the operation whose datatype is not specified or cannot be infered.
+By default static operations have their _Is Generic_ property set to true. Disabling it shows errors for all inputs and outputs of the operation whose datatype is not specified or cannot be inferred.
 
 ![](../../images/language/vl-Utils-StaticOperation-GenericToggle.png)
 <center>The "Is Generic" toggle of an operation definition is on by default</center>
@@ -44,7 +44,7 @@ Member operations in a patch can be defined either via the PatchExplorer...
 
 *Image:Adding a member operation via the PatchExplorer*
 
-...or by selecting an elements in the patch and choosing to assign them to a new operation via the context menu:
+...or by selecting an element in the patch and choosing to assign them to a new operation via the context menu:
 
 *Image:Assigning a selection of inputs to a new operation*
 
